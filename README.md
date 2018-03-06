@@ -22,4 +22,4 @@ Chú ý nếu tham số là
 - Đầu tiên, ứng dụng sẽ lấy tất cả thư mục và file cấp 1.
 - Vẽ tất cả thư mục vừa lấy được.
 - Với mỗi thư mục vừa lấy, ta gọi lại hàm **Tree** với thư mục đó.
-- Vẽ file trong tất cả các thư m
+- Vẽ file trong tất cả các thư mục.
